@@ -1,0 +1,22 @@
+.Game {
+    position: absolute;
+    padding-left: 2px;
+    left: calc( 50% - 300px);
+    top: calc(50% - 200px);
+    overflow: visible;
+    width: 600px;
+    height: 400px;
+    background-color: #ffa92b;
+}
+
+.ball {
+    fill: #a6443b;
+}
+
+.platform{
+    fill: #2B2B2B;
+   /*margin-left: calc(50% - 60px);*/
+}
+.brick{
+    fill: #4b3020;
+}
